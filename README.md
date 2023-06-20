@@ -10,7 +10,7 @@
 </div>
 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLyra71&theme=dracula_icons=true)
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLyra71&theme=dracula&icons=true)
 
 
 
