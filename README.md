@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou o Caio Lyra!  👋🏾
 
-<!--
-**CaioLyra71/CaioLyra71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-lyra-218216140/)
 
-Here are some ideas to get you started:
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLyra71&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias que utilizo:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="javascript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="nodejs"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
+</div>
