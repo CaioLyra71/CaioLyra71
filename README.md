@@ -10,7 +10,9 @@
 </div>
 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLyra71&show_icons=true&theme=dracula)
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLyra71&theme=dracula_icons=true)
+
+
 
 
 ## Tecnologias que utilizo:
